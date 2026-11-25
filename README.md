@@ -38,6 +38,14 @@
 
 </div>
 
+<div align="center">
+
+## 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/SanketSambhawDev/SanketSambhawDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
 ---
 
 <div align="center">
